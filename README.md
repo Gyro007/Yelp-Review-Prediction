@@ -13,4 +13,3 @@ This code can be run in R and RStudio which can be downloaded from https://posit
 - The report provides discussion of the methodology and results
 - The markdown provides the code that generated the report
 - The script provides the R packages and code for both analyses and plots
-- 
